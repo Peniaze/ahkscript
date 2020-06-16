@@ -5,6 +5,7 @@
 +F3::Send   {Volume_Up}
 +F2::Send   {Volume_Down}
 
+; saltoo
 ; win + -
 #/::
     SendMessage 0x112, 0xF140, 0, , Program Manager  ; Start screensaver
